@@ -40,6 +40,14 @@ void main() {
 }
 ```
 
+## Roadmap & Future Outlook: Direct OEM API Access
+
+Currently, this package generates formal legal requests (PDF/Email) based on Art. 4 of the EU Data Act to force OEMs to provide vehicle data. 
+
+**The ultimate goal is direct API access.** As the EU Data Act enforcement progresses, OEMs are legally required to provide direct, real-time API access to the user's vehicle data without artificial barriers. 
+
+Future versions of this package will evolve from a "legal request generator" into a **direct OEM API client**, providing standardized interfaces to fetch telemetry, battery status, and diagnostic data directly from the manufacturers' servers on behalf of the user.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
