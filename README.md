@@ -48,6 +48,10 @@ Currently, this package generates formal legal requests (PDF/Email) based on Art
 
 Future versions of this package will evolve from a "legal request generator" into a **direct OEM API client**, providing standardized interfaces to fetch telemetry, battery status, and diagnostic data directly from the manufacturers' servers on behalf of the user.
 
+## Related Projects
+
+- **[OpenHood OBD-2 Core](https://github.com/3lehr/openhood_obd_core)**: A secure, offline-first OBD-2 communication library for Flutter. It features a strict 4-layer security architecture that actively blocks dangerous commands (like Mode 04/08) to ensure vehicle safety while reading real-time diagnostic data.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
