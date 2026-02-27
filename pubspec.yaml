@@ -2,6 +2,7 @@ name: openhood_data_act_api
 description: Open Source API for generating EU Data Act (Art. 4) requests for connected vehicles.
 version: 1.0.0
 homepage: https://openhood.org
+repository: https://github.com/3lehr/openhood-data-act-api
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
